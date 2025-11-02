@@ -1,0 +1,263 @@
+[
+  {
+    "id": "mango-pickle-500g",
+    "name": "Traditional Mango Pickle (Aam Ka Achar)",
+    "slug": "mango-pickle-500g",
+    "category": "Pickles",
+    "price": 299,
+    "originalPrice": 349,
+    "image": "https://images.pexels.com/photos/4023132/pexels-photo-4023132.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/4023132/pexels-photo-4023132.jpeg",
+      "https://images.unsplash.com/photo-1605668674985-0f23ec0765cd",
+      "https://images.pexels.com/photos/12264042/pexels-photo-12264042.jpeg"
+    ],
+    "rating": 4.8,
+    "reviews": 156,
+    "stock": 45,
+    "weights": ["250g", "500g", "1kg"],
+    "description": "Made from handpicked raw mangoes with traditional spices passed down through generations. Our Aam Ka Achar brings authentic taste of North Indian kitchens.",
+    "ingredients": "Raw Mango, Mustard Oil, Red Chili Powder, Turmeric, Fenugreek, Fennel Seeds, Nigella Seeds, Salt",
+    "nutritionalInfo": "Per 100g: Energy 150 kcal, Fat 8g, Carbohydrates 12g, Protein 2g, Sodium 450mg",
+    "featured": true,
+    "bestSeller": true
+  },
+  {
+    "id": "lemon-pickle-500g",
+    "name": "Spicy Lemon Pickle (Nimbu Ka Achar)",
+    "slug": "lemon-pickle-500g",
+    "category": "Pickles",
+    "price": 249,
+    "originalPrice": 299,
+    "image": "https://images.unsplash.com/photo-1617854307432-13950e24ba07",
+    "images": [
+      "https://images.unsplash.com/photo-1617854307432-13950e24ba07",
+      "https://images.pexels.com/photos/7038148/pexels-photo-7038148.jpeg"
+    ],
+    "rating": 4.7,
+    "reviews": 89,
+    "stock": 32,
+    "weights": ["250g", "500g"],
+    "description": "Tangy and spicy lemon pickle made with fresh lemons, aged to perfection. Perfect accompaniment for dal-chawal and parathas.",
+    "ingredients": "Lemon, Mustard Oil, Red Chili Powder, Turmeric, Fenugreek Seeds, Salt, Hing (Asafoetida)",
+    "nutritionalInfo": "Per 100g: Energy 120 kcal, Fat 6g, Carbohydrates 14g, Protein 1.5g, Vitamin C 35mg",
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "garlic-pickle-250g",
+    "name": "Lehsun Ka Achar (Garlic Pickle)",
+    "slug": "garlic-pickle-250g",
+    "category": "Pickles",
+    "price": 279,
+    "originalPrice": 329,
+    "image": "https://images.pexels.com/photos/7038184/pexels-photo-7038184.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/7038184/pexels-photo-7038184.jpeg",
+      "https://images.unsplash.com/photo-1596518431969-f8f37e0c4204"
+    ],
+    "rating": 4.9,
+    "reviews": 124,
+    "stock": 28,
+    "weights": ["250g", "500g"],
+    "description": "Aromatic garlic cloves pickled in pure mustard oil with traditional spices. A must-have for garlic lovers!",
+    "ingredients": "Garlic, Mustard Oil, Red Chili Powder, Turmeric, Fenugreek, Cumin, Salt",
+    "nutritionalInfo": "Per 100g: Energy 180 kcal, Fat 10g, Carbohydrates 16g, Protein 3g",
+    "featured": false,
+    "bestSeller": true
+  },
+  {
+    "id": "mixed-veg-pickle-500g",
+    "name": "Mixed Vegetable Pickle",
+    "slug": "mixed-veg-pickle-500g",
+    "category": "Pickles",
+    "price": 289,
+    "originalPrice": 339,
+    "image": "https://images.unsplash.com/photo-1564847790103-3a75e721dfaa",
+    "images": [
+      "https://images.unsplash.com/photo-1564847790103-3a75e721dfaa"
+    ],
+    "rating": 4.6,
+    "reviews": 67,
+    "stock": 41,
+    "weights": ["500g", "1kg"],
+    "description": "A delightful mix of carrots, cauliflower, green chilies, and turnips pickled with aromatic spices.",
+    "ingredients": "Carrot, Cauliflower, Green Chili, Turnip, Mustard Oil, Spices, Salt",
+    "nutritionalInfo": "Per 100g: Energy 140 kcal, Fat 7g, Carbohydrates 15g, Fiber 3g",
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "green-chili-pickle-250g",
+    "name": "Hari Mirch Ka Achar (Green Chili Pickle)",
+    "slug": "green-chili-pickle-250g",
+    "category": "Pickles",
+    "price": 229,
+    "originalPrice": 279,
+    "image": "https://images.unsplash.com/photo-1511941923513-f7749910f91d",
+    "images": [
+      "https://images.unsplash.com/photo-1511941923513-f7749910f91d",
+      "https://images.unsplash.com/photo-1610216339841-a0456a6c86a9"
+    ],
+    "rating": 4.5,
+    "reviews": 92,
+    "stock": 38,
+    "weights": ["250g", "500g"],
+    "description": "Fiery green chili pickle for those who love extra heat in their meals. Made with fresh green chilies.",
+    "ingredients": "Green Chili, Mustard Oil, Fenugreek Seeds, Fennel, Salt, Turmeric",
+    "nutritionalInfo": "Per 100g: Energy 110 kcal, Fat 5g, Carbohydrates 12g, Capsaicin high",
+    "featured": false,
+    "bestSeller": true
+  },
+  {
+    "id": "plain-papad-200g",
+    "name": "Classic Plain Papad",
+    "slug": "plain-papad-200g",
+    "category": "Papad",
+    "price": 89,
+    "originalPrice": 99,
+    "image": "https://images.unsplash.com/photo-1697155406014-04dc649b0953",
+    "images": [
+      "https://images.unsplash.com/photo-1697155406014-04dc649b0953",
+      "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg"
+    ],
+    "rating": 4.7,
+    "reviews": 203,
+    "stock": 95,
+    "weights": ["200g", "400g", "1kg"],
+    "description": "Handmade thin and crispy plain papads perfect for roasting or frying. Made with premium quality urad dal.",
+    "ingredients": "Urad Dal, Salt, Papad Khar, Edible Oil",
+    "nutritionalInfo": "Per 100g: Energy 340 kcal, Protein 18g, Carbohydrates 55g, Fat 4g",
+    "featured": true,
+    "bestSeller": true
+  },
+  {
+    "id": "jeera-papad-200g",
+    "name": "Cumin Papad (Jeera Papad)",
+    "slug": "jeera-papad-200g",
+    "category": "Papad",
+    "price": 99,
+    "originalPrice": 119,
+    "image": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg"
+    ],
+    "rating": 4.8,
+    "reviews": 145,
+    "stock": 72,
+    "weights": ["200g", "400g"],
+    "description": "Aromatic cumin-flavored papads that add a special touch to every meal. Crunchy and flavorful.",
+    "ingredients": "Urad Dal, Cumin Seeds, Black Pepper, Salt, Papad Khar",
+    "nutritionalInfo": "Per 100g: Energy 350 kcal, Protein 19g, Carbohydrates 56g, Fat 4.5g",
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "mint-chutney-200g",
+    "name": "Fresh Mint Chutney (Pudina)",
+    "slug": "mint-chutney-200g",
+    "category": "Chutney",
+    "price": 149,
+    "originalPrice": 179,
+    "image": "https://images.pexels.com/photos/12737814/pexels-photo-12737814.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/12737814/pexels-photo-12737814.jpeg"
+    ],
+    "rating": 4.6,
+    "reviews": 78,
+    "stock": 54,
+    "weights": ["200g", "400g"],
+    "description": "Fresh mint chutney perfect for snacks, chaats, and sandwiches. Made with garden-fresh mint leaves.",
+    "ingredients": "Mint Leaves, Coriander, Green Chili, Lemon Juice, Salt, Cumin",
+    "nutritionalInfo": "Per 100g: Energy 45 kcal, Fat 1g, Carbohydrates 8g, Fiber 2g",
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "tamarind-chutney-250g",
+    "name": "Sweet Tamarind Chutney (Imli)",
+    "slug": "tamarind-chutney-250g",
+    "category": "Chutney",
+    "price": 159,
+    "originalPrice": 189,
+    "image": "https://images.pexels.com/photos/28241677/pexels-photo-28241677.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/28241677/pexels-photo-28241677.jpeg"
+    ],
+    "rating": 4.9,
+    "reviews": 112,
+    "stock": 62,
+    "weights": ["250g", "500g"],
+    "description": "Sweet and tangy tamarind chutney perfect for chaats, samosas, and pakoras. A crowd favorite!",
+    "ingredients": "Tamarind, Jaggery, Cumin, Red Chili Powder, Ginger, Salt",
+    "nutritionalInfo": "Per 100g: Energy 240 kcal, Carbohydrates 58g, Fat 0.5g, Iron 2mg",
+    "featured": false,
+    "bestSeller": true
+  },
+  {
+    "id": "garam-masala-100g",
+    "name": "Premium Garam Masala",
+    "slug": "garam-masala-100g",
+    "category": "Masala",
+    "price": 129,
+    "originalPrice": 149,
+    "image": "https://images.unsplash.com/photo-1581600140682-d4e68c8cde32",
+    "images": [
+      "https://images.unsplash.com/photo-1581600140682-d4e68c8cde32",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d"
+    ],
+    "rating": 4.8,
+    "reviews": 187,
+    "stock": 88,
+    "weights": ["50g", "100g", "200g"],
+    "description": "Aromatic blend of premium spices ground to perfection. Essential for authentic Indian cooking.",
+    "ingredients": "Coriander, Cumin, Black Pepper, Cinnamon, Cloves, Cardamom, Bay Leaf, Nutmeg",
+    "nutritionalInfo": "Per 100g: Energy 380 kcal, Protein 12g, Carbohydrates 65g, Fat 8g",
+    "featured": true,
+    "bestSeller": true
+  },
+  {
+    "id": "red-chili-powder-200g",
+    "name": "Kashmir Red Chili Powder",
+    "slug": "red-chili-powder-200g",
+    "category": "Masala",
+    "price": 179,
+    "originalPrice": 209,
+    "image": "https://images.pexels.com/photos/1340116/pexels-photo-1340116.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1340116/pexels-photo-1340116.jpeg",
+      "https://images.unsplash.com/photo-1539283232661-def4e72f21f9"
+    ],
+    "rating": 4.7,
+    "reviews": 142,
+    "stock": 76,
+    "weights": ["100g", "200g", "500g"],
+    "description": "Premium Kashmir red chili powder for vibrant color and mild heat. Perfect for all Indian dishes.",
+    "ingredients": "Kashmir Red Chili",
+    "nutritionalInfo": "Per 100g: Energy 320 kcal, Vitamin A high, Capsaicin moderate",
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "turmeric-powder-200g",
+    "name": "Pure Turmeric Powder (Haldi)",
+    "slug": "turmeric-powder-200g",
+    "category": "Masala",
+    "price": 119,
+    "originalPrice": 139,
+    "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc727",
+    "images": [
+      "https://images.unsplash.com/photo-1615485500834-bc10199bc727",
+      "https://images.unsplash.com/photo-1656497119922-068c6a5e1193"
+    ],
+    "rating": 4.9,
+    "reviews": 234,
+    "stock": 102,
+    "weights": ["100g", "200g", "500g"],
+    "description": "100% pure turmeric powder with high curcumin content. Natural and chemical-free.",
+    "ingredients": "Turmeric Root",
+    "nutritionalInfo": "Per 100g: Energy 310 kcal, Curcumin 3.5%, Iron 55mg, Antioxidants high",
+    "featured": true,
+    "bestSeller": true
+  }
+]

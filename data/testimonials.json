@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "location": "Mumbai, India",
+    "rating": 5,
+    "text": "The mango pickle takes me back to my grandmother's kitchen! Authentic taste, just like homemade. I order every month now.",
+    "date": "2024-05-15"
+  },
+  {
+    "id": 2,
+    "name": "Rajesh Kumar",
+    "location": "Delhi, India",
+    "rating": 5,
+    "text": "Best papads I've had outside of home! Crispy, thin, and perfectly seasoned. The jeera papad is my favorite.",
+    "date": "2024-05-10"
+  },
+  {
+    "id": 3,
+    "name": "Anita Desai",
+    "location": "London, UK",
+    "rating": 5,
+    "text": "As an NRI, finding authentic Indian pickles was challenging. This brand delivers exactly what I missed from home. Fast international shipping too!",
+    "date": "2024-05-02"
+  },
+  {
+    "id": 4,
+    "name": "Vikram Singh",
+    "location": "Bangalore, India",
+    "rating": 5,
+    "text": "The garlic pickle is absolutely divine! Pure ingredients, no preservatives. You can taste the quality.",
+    "date": "2024-04-28"
+  },
+  {
+    "id": 5,
+    "name": "Meera Patel",
+    "location": "New York, USA",
+    "rating": 5,
+    "text": "Living abroad made me miss authentic Indian flavors. These pickles and masalas are a lifesaver! Thank you for bringing taste of home to us.",
+    "date": "2024-04-20"
+  }
+]

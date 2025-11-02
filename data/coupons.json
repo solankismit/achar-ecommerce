@@ -1,0 +1,30 @@
+[
+  {
+    "code": "WELCOME10",
+    "discount": 10,
+    "type": "percentage",
+    "minOrder": 500,
+    "description": "10% off on orders above ₹500"
+  },
+  {
+    "code": "FLAT50",
+    "discount": 50,
+    "type": "fixed",
+    "minOrder": 299,
+    "description": "Flat ₹50 off on orders above ₹299"
+  },
+  {
+    "code": "FIRST100",
+    "discount": 100,
+    "type": "fixed",
+    "minOrder": 1000,
+    "description": "First order discount - ₹100 off on orders above ₹1000"
+  },
+  {
+    "code": "FESTIVE20",
+    "discount": 20,
+    "type": "percentage",
+    "minOrder": 799,
+    "description": "Festival special - 20% off on orders above ₹799"
+  }
+]

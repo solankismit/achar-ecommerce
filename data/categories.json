@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pickles",
+    "name": "Pickles",
+    "slug": "pickles",
+    "image": "https://images.pexels.com/photos/4023132/pexels-photo-4023132.jpeg",
+    "description": "Authentic homemade pickles made with traditional recipes"
+  },
+  {
+    "id": "papad",
+    "name": "Papad",
+    "slug": "papad",
+    "image": "https://images.unsplash.com/photo-1697155406014-04dc649b0953",
+    "description": "Crispy handmade papads for every meal"
+  },
+  {
+    "id": "chutney",
+    "name": "Chutney",
+    "slug": "chutney",
+    "image": "https://images.pexels.com/photos/12737814/pexels-photo-12737814.jpeg",
+    "description": "Fresh and flavorful chutneys for your snacks"
+  },
+  {
+    "id": "masala",
+    "name": "Masala",
+    "slug": "masala",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d",
+    "description": "Premium quality spice blends and masalas"
+  }
+]
