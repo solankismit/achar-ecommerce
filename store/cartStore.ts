@@ -20,7 +20,8 @@ interface CartStore {
   getItemCount: () => number;
 }
 
-export const useCartStore = create<CartStore>()(n  persist(
+export const useCartStore = create<CartStore>()(
+  persist(
     (set, get) => ({
       items: [],
       addItem: (item) => {
